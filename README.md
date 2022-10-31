@@ -2,4 +2,4 @@
 
 My first repository on GitHub
 
-i like :piza  :)
+i like :pizza:  :)
